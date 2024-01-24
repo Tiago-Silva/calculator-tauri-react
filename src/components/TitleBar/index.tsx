@@ -19,7 +19,6 @@ export const TitleBar = () => {
   }, []) 
 
   const handleMinimizeClick = () => appWindow?.minimize();
-  const handleMaximizeClick = () => appWindow?.toggleMaximize();
   const handleCloseClick = () => appWindow?.close();
   return (
     <Container data-tauri-drag-region>
