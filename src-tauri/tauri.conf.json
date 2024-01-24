@@ -38,7 +38,10 @@
         "resizable": false,
         "title": "calculadora",
         "width": 350,
-        "height": 550
+        "height": 550,
+        "center": true,
+        "transparent": true,
+        "titleBarStyle": "Transparent"
       }
     ]
   }
