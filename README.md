@@ -7,8 +7,7 @@ Customizar o menu nativo das janelas e brincar um pouco com aplições desktop.
 Você pode visitar a documentação e verificar como tauri realiza algumas customizações mesclando códgio RUST com react js [Documentação](https://tauri.app/v1/guides/features/window-customization)
 
 <h1 align="center">
-    <img src="./public/tela01.gif" width="300"/>
-    <img src="./public/tela.png" width="300"/>
+    <img src="./public/tela.png" width="900"/>
 </h1>
 
 ## 💻 Requisitos
